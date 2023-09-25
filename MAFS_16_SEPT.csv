@@ -1,0 +1,129 @@
+id,couple_id,season,premier_date,location,name,age,age_difference,gender,job,job_type,decision,split_decision,status,DrPepperSchwartz,DrLoganLevkoff,DrJosephCilona,ChaplainGregEpstein,PastorCalvinRoberson,RachelDeAlto,DrJessicaGriffin,DrVivianaColes,DeVonFranklin,DrPiaHolec
+1,1,1,07/08/14,New York City and Northern New Jersey,Jamie Otis-Hehner,27,4,F,Nurse,Healthcare,Yes,FALSE,Married,1,1,1,1,0,0,0,0,0,0
+2,1,1,07/08/14,New York City and Northern New Jersey,Doug Hehner,31,4,M,Software salesman,Sales/Marketing,Yes,FALSE,Married,1,1,1,1,0,0,0,0,0,0
+3,2,1,07/08/14,New York City and Northern New Jersey,Cortney Hendrix,26,1,F,Make-up artist,Other,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+4,2,1,07/08/14,New York City and Northern New Jersey,Jason Carrion,27,1,M,Fireman,Other,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+5,3,1,07/08/14,New York City and Northern New Jersey,Monet Bell,33,3,F,Product development manager,Sales/Marketing,No,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+6,3,1,07/08/14,New York City and Northern New Jersey,Vaughn Copeland,30,3,M,Field service technician,Other,No,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+7,4,2,03/17/15,New York City and Northern New Jersey,Jaclyn Methuen,30,2,F,Vodka saleswoman,Sales/Marketing,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+8,4,2,03/17/15,New York City and Northern New Jersey,Ryan Ranellone,28,2,M,Real estate agent,Sales/Marketing,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+9,5,2,03/17/15,New York City and Northern New Jersey,Davina Kullar (now Davis),34,1,F,Pharmaceutical saleswoman,Sales/Marketing,No,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+10,5,2,03/17/15,New York City and Northern New Jersey,Sean Varricchio,35,1,M,Trauma nurse,Healthcare,No,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+11,6,2,03/17/15,New York City and Northern New Jersey,Jessica Castro,30,1,F,Receptionist,Business/Finance,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+12,6,2,03/17/15,New York City and Northern New Jersey,Ryan DeNino/Oehl,29,1,M,Businessman,Business/Finance,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+13,7,3,12/02/15,"Atlanta, Georgia",Vanessa Nelson,26,1,F,Event manager,Sales/Marketing,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+14,7,3,12/02/15,"Atlanta, Georgia",Tres Russell,27,1,M,Luxury car salesman,Sales/Marketing,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+15,8,3,12/02/15,"Atlanta, Georgia",Ashley Doherty,30,1,F,Nursing student,Healthcare,No,TRUE,Divorced,1,1,1,1,0,0,0,0,0,0
+16,8,3,12/02/15,"Atlanta, Georgia",David Norton,29,1,M,Software account executive,Tech/Science/Engineering,Yes,TRUE,Divorced,1,1,1,1,0,0,0,0,0,0
+17,9,3,12/02/15,"Atlanta, Georgia",Samantha Role,30,1,F,Bank manager,Business/Finance,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+18,9,3,12/02/15,"Atlanta, Georgia",Neil Bowlus,31,1,M,Compliance specialist,Other,Yes,FALSE,Divorced,1,1,1,1,0,0,0,0,0,0
+19,10,4,07/26/16,South Florida,Sonia Granados,33,1,F,Social worker,Healthcare,Yes,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+20,10,4,07/26/16,South Florida,Nick Pendergrast,32,1,M,Vacation rental manager,Business/Finance,Yes,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+21,11,4,07/26/16,South Florida,Heather Seidel,32,3,F,Flight attendant,Other,No,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+22,11,4,07/26/16,South Florida,Derek Schwartz,35,3,M,Account executive,Business/Finance,No,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+23,12,4,07/26/16,South Florida,Lillian Vilchez,24,5,F,Realtor,Sales/Marketing,Yes,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+24,12,4,07/26/16,South Florida,Tom Wilson,29,5,M,Boat interior designer,Other,Yes,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+25,13,5,04/20/17,"Chicago, Illinois",Danielle DeGroot,30,4,F,Dietician,Healthcare,Yes,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+26,13,5,04/20/17,"Chicago, Illinois",Cody Knapek,26,4,M,Trainer / gym owner,Healthcare,Yes,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+27,14,5,04/20/17,"Chicago, Illinois",Sheila Downs,31,5,F,School district facility director,Education,Yes,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+28,14,5,04/20/17,"Chicago, Illinois",Nate Duhon,26,5,M,Branch manager of a car rental company,Business/Finance,Yes,FALSE,Divorced,1,0,0,0,1,1,0,0,0,0
+29,15,5,04/20/17,"Chicago, Illinois",Ashley Petta,30,3,F,Manager of family-owned bar & grill,Other,Yes,FALSE,Married,1,0,0,0,1,1,0,0,0,0
+30,15,5,04/20/17,"Chicago, Illinois",Anthony D'Amico,33,3,M,Sale account executive,Sales/Marketing,Yes,FALSE,Married,1,0,0,0,1,1,0,0,0,0
+31,16,6,01/02/18,"Boston, Massachusetts",Shawniece Jackson,29,3,F,Cosmetologist,Other,Yes,FALSE,Married,1,0,0,0,1,0,1,0,0,0
+32,16,6,01/02/18,"Boston, Massachusetts",Jephte Pierre,26,3,M,2nd grade school teacher,Education,Yes,FALSE,Married,1,0,0,0,1,0,1,0,0,0
+33,17,6,01/02/18,"Boston, Massachusetts",Molly Duff,25,3,F,Commercial insurance adjuster,Business/Finance,No,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+34,17,6,01/02/18,"Boston, Massachusetts",Jonathan Francetic,28,3,M,Financial associate,Business/Finance,No,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+35,18,6,01/02/18,"Boston, Massachusetts",Jaclyn Schwartzberg,29,0,F,Technical sales representative,Sales/Marketing,Yes,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+36,18,6,01/02/18,"Boston, Massachusetts",Ryan Buckley,29,0,M,Firefighter,Other,Yes,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+37,19,7,07/10/18,"Dallas, Texas",Mia Bally,29,0,F,International recruiter of an airline,Sales/Marketing,Yes,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+38,19,7,07/10/18,"Dallas, Texas",Tristan Thompson,29,0,M,Tutoring club owner,Education,Yes,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+39,20,7,07/10/18,"Dallas, Texas",Danielle Bergman-Dodd,30,3,F,Software saleswoman,Sales/Marketing,Yes,FALSE,Married,1,0,0,0,1,0,1,0,0,0
+40,20,7,07/10/18,"Dallas, Texas",Bobby Dodd,27,3,M,Construction project manager,Tech/Science/Engineering,Yes,FALSE,Married,1,0,0,0,1,0,1,0,0,0
+41,21,7,07/10/18,"Dallas, Texas",Amber Martorana,36,1,F,Senior title analyst,Business/Finance,Yes,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+42,21,7,07/10/18,"Dallas, Texas",Dave Flaherty,37,1,M,High yield bond trader,Business/Finance,Yes,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+43,22,8,01/01/19,"Philadelphia, Pennsylvania",Stephanie Sersen,35,2,F,Financial consultant,Business/Finance,Yes,FALSE,Married,1,0,0,0,1,0,1,0,0,0
+44,22,8,01/01/19,"Philadelphia, Pennsylvania",AJ Vollmoeller,37,2,M,President & CEO of a staffing & recruiting company,Business/Finance,Yes,FALSE,Married,1,0,0,0,1,0,1,0,0,0
+45,23,8,01/01/19,"Philadelphia, Pennsylvania",Jasmine McGriff,30,7,F,Assistant director,Other,Yes,TRUE,Divorced,1,0,0,0,1,0,1,0,0,0
+46,23,8,01/01/19,"Philadelphia, Pennsylvania",Will Guess,37,7,M,Financial analyst,Business/Finance,No,TRUE,Divorced,1,0,0,0,1,0,1,0,0,0
+47,24,8,01/01/19,"Philadelphia, Pennsylvania",Kate Sisk,28,3,F,Hotel marketing specialist,Sales/Marketing,No,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+48,24,8,01/01/19,"Philadelphia, Pennsylvania",Luke Cuccurullo,31,3,M,Civil and environmental engineer,Tech/Science/Engineering,No,FALSE,Divorced,1,0,0,0,1,0,1,0,0,0
+49,25,8,01/01/19,"Philadelphia, Pennsylvania",Kristine Killingsworth,29,0,F,Residential real estate agent,Sales/Marketing,Yes,FALSE,Married,1,0,0,0,1,0,1,0,0,0
+50,25,8,01/01/19,"Philadelphia, Pennsylvania",Keith Dewar,29,0,M,Kidney dialysis patient care technician,Healthcare,Yes,FALSE,Married,1,0,0,0,1,0,1,0,0,0
+51,26,9,06/12/19,"Charlotte, North Carolina",Iris Caldwell,27,0,F,Non-Profit Program Coordinator,Other,Yes,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+52,26,9,06/12/19,"Charlotte, North Carolina",Keith Manley,27,0,M,Mentor/Coach,Education,No,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+53,27,9,06/12/19,"Charlotte, North Carolina",Elizabeth Bice,29,6,F,Account Executive,Business/Finance,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+54,27,9,06/12/19,"Charlotte, North Carolina",Jamie Thompson,35,6,M,Financial Technician,Business/Finance,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+55,28,9,06/12/19,"Charlotte, North Carolina",Deonna McNeill,30,2,F,Operations Manager,Business/Finance,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+56,28,9,06/12/19,"Charlotte, North Carolina",Gregory Okotie,32,2,M,Math Learning Center Owner,Education,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+57,29,9,06/12/19,"Charlotte, North Carolina",Amber Bowles,27,4,F,Middle School Teacher,Education,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+58,29,9,06/12/19,"Charlotte, North Carolina",Matthew Gwynne,31,4,M,Ex Professional Basketball Player,Other,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+59,30,10,01/01/20,Washington D.C.,Katie Conrad,25,1,F,Mental Health Professional,Healthcare,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+60,30,10,01/01/20,Washington D.C.,Derek Sherman,26,1,M,Cyber Security Engineer,Tech/Science/Engineering,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+61,31,10,01/01/20,Washington D.C.,Jessica Studer,31,0,F,Nurse Manager,Healthcare,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+62,31,10,01/01/20,Washington D.C.,Austin Hurd,31,0,M,Network Technician,Tech/Science/Engineering,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+63,32,10,01/01/20,Washington D.C.,Taylor Dunklin,27,7,F,Research Scientist,Tech/Science/Engineering,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+64,32,10,01/01/20,Washington D.C.,Brandon Reid,34,7,M,Sales Manager,Sales/Marketing,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+65,33,10,01/01/20,Washington D.C.,Meka Jones,25,6,F,Category Analyst,Business/Finance,No,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+66,33,10,01/01/20,Washington D.C.,Michael Watson,31,6,M,Education Director,Education,Yes,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+67,34,10,01/01/20,Washington D.C.,Mindy Shiben,34,2,F,Figure Skating Coach,Education,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+68,34,10,01/01/20,Washington D.C.,Zach Justice,32,2,M,Fitness Professional,Other,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+69,35,11,07/15/20,"New Orleans, Louisiana",Amelia Fatsi,27,1,F,Physician,Healthcare,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+70,35,11,07/15/20,"New Orleans, Louisiana",Bennett Kirschner,28,1,M,Artistic director of a theater company,Other,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+71,36,11,07/15/20,"New Orleans, Louisiana",Olivia Cornu,30,5,F,Nurse practitioner,Healthcare,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+72,36,11,07/15/20,"New Orleans, Louisiana","Brett Lindsey	",35,5,M,Certified AWS cloud practitioner,Tech/Science/Engineering,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+73,37,11,07/15/20,"New Orleans, Louisiana",Karen Landry-Williams,30,4,F,Human resources consultant,Business/Finance,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+74,37,11,07/15/20,"New Orleans, Louisiana",Miles Williams,26,4,M,Children & youth educator,Education,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+75,38,11,07/15/20,"New Orleans, Louisiana",Amani Smith,29,1,F,Nonprofit field,Other,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+76,38,11,07/15/20,"New Orleans, Louisiana",Woody Randall,30,1,M,Teacher and coach/mentor,Education,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+77,39,11,07/15/20,"New Orleans, Louisiana",Christina Croce,30,5,F,Flight attendant,Other,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+78,39,11,07/15/20,"New Orleans, Louisiana",Henry Rodriguez,35,5,M,Clinical recruiter,Business/Finance,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+79,40,12,01/13/21,"Atlanta, Georgia",Haley Harris,28,10,F,Account Executive,Business/Finance,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+80,40,12,01/13/21,"Atlanta, Georgia",Jacob Harter,38,10,M,Senior IT Analyst,Tech/Science/Engineering,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+81,41,12,01/13/21,"Atlanta, Georgia",Paige Banks,25,2,F,Accountant,Business/Finance,No,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+82,41,12,01/13/21,"Atlanta, Georgia",Chris Williams,27,2,M,Finance Manager & Entrepreneur,Business/Finance,Yes,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+83,42,12,01/13/21,"Atlanta, Georgia",Briana Myles,28,0,F,Engineer,Tech/Science/Engineering,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+84,42,12,01/13/21,"Atlanta, Georgia",Vincent Morales,28,0,M,Auto Broker,Sales/Marketing,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+85,43,12,01/13/21,"Atlanta, Georgia",Clara Berghaus,27,2,F,Flight Attendant,Other,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+86,43,12,01/13/21,"Atlanta, Georgia",Ryan Oubré,29,2,M,Project Manager,Business/Finance,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+87,44,12,01/13/21,"Atlanta, Georgia",Virginia Coombs,26,7,F,Account Coordinator,Business/Finance,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+88,44,12,01/13/21,"Atlanta, Georgia",Erik Lake,33,7,M,Pilot,Other,Yes,FALSE,Married,1,0,0,0,1,0,0,1,0,0
+89,45,13,07/21/21,"Houston, Texas",Michaela Clark,30,3,F,Realtor,Sales/Marketing,Yes,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+90,45,13,07/21/21,"Houston, Texas",Zack Freeman,27,3,M,Finance,Business/Finance,No,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+91,46,13,07/21/21,"Houston, Texas",Rachel Gordillo,33,2,F,Special Education Evaluator,Education,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+92,46,13,07/21/21,"Houston, Texas",Jose San Miguel,35,2,M,Mission Flight Specialist,Tech/Science/Engineering,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+93,47,13,07/21/21,"Houston, Texas","Bao Huong Hoang	",35,0,F,Research Administrative Director,Tech/Science/Engineering,No,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+94,47,13,07/21/21,"Houston, Texas",Johnny Lam,35,0,M,IT Project Manager,Tech/Science/Engineering,Yes,TRUE,Divorced,1,0,0,0,1,0,0,1,0,0
+95,48,13,07/21/21,"Houston, Texas",Myrla Féria,34,1,F,Leadership coach,Other,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+96,48,13,07/21/21,"Houston, Texas",Gil Cuero,35,1,M,Firefighter,Other,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+97,49,13,07/21/21,"Houston, Texas",Brett Layton,33,2,F,Teacher & Volleyball Coach,Education,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+98,49,13,07/21/21,"Houston, Texas",Ryan Ignasiak,35,2,M,Oil & Gas Liaison,Tech/Science/Engineering,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+99,50,14,01/05/22,"Boston, Massachusetts",Jasmina Outar,29,1,F,Early Childhood Educator,Education,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+100,50,14,01/05/22,"Boston, Massachusetts",Michael Morency,28,1,M,Personal Trainer,Healthcare,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+101,51,14,01/05/22,"Boston, Massachusetts",Katina Goode,29,0,F,Benefit Calculation Analyst,Business/Finance,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+102,51,14,01/05/22,"Boston, Massachusetts","Olajuwon Dickerson	",29,0,M,Municipal Wastewater Operator,Tech/Science/Engineering,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+103,52,14,01/05/22,"Boston, Massachusetts",Lindsey Gergoulis,34,3,F,Healthcare Project Manager,Healthcare,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+104,52,14,01/05/22,"Boston, Massachusetts",Mark Maher,37,3,M,Regional Sales Director,Sales/Marketing,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+105,53,14,01/05/22,"Boston, Massachusetts",Noi Phommasak,33,5,F,Talent Acquisition Coordinator,Business/Finance,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+106,53,14,01/05/22,"Boston, Massachusetts",Steve Moy,38,5,M,Former Sales Engineer,Sales/Marketing,Yes,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+107,54,14,01/05/22,"Boston, Massachusetts",Alyssa Ellman,30,5,F,Social Media Manager,Sales/Marketing,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+108,54,14,01/05/22,"Boston, Massachusetts",Chris Collette,35,5,M,Realtor,Sales/Marketing,No,FALSE,Divorced,1,0,0,0,1,0,0,1,0,0
+109,55,15,07/13/22,"San Diego, California","Stacia Karcher	",37,3,F,Accountant,Business/Finance,Yes,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+110,55,15,07/13/22,"San Diego, California",Nate Barnes,34,3,M,Day trader,Business/Finance,Yes,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+111,56,15,07/13/22,"San Diego, California",Alexis Williams,29,4,F,Logistic specialist,Business/Finance,Yes,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+112,56,15,07/13/22,"San Diego, California",Justin Hall,33,4,M,Digital Marketing Specialist,Sales/Marketing,Yes,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+113,57,15,07/13/22,"San Diego, California",Lindy Elloway,29,6,F,Physical therapy doctor,Healthcare,Yes,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+114,57,15,07/13/22,"San Diego, California",Miguel Santiago,35,6,M,"	Medical technical writer",Healthcare,Yes,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+115,58,15,07/13/22,"San Diego, California",Morgan Bell,29,0,F,Registered nurse,Healthcare,No,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+116,58,15,07/13/22,"San Diego, California",Binh Trinh,29,0,M,Engineer,Tech/Science/Engineering,No,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+117,59,15,07/13/22,"San Diego, California",Krysten Collins,32,9,F,Sales representative,Sales/Marketing,No,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+118,59,15,07/13/22,"San Diego, California",Mitch Silverstein,41,9,M,Environmental policy advocate,Tech/Science/Engineering,No,FALSE,Divorced,1,0,0,0,1,0,0,0,0,0
+119,60,16,01/04/23,"Nashville, Tennessee",Jasmine Secrest,32,7,F,Competitive cheerleading coach,Other,No,FALSE,Divorced,1,0,0,0,1,0,0,0,1,1
+120,60,16,01/04/23,"Nashville, Tennessee",Airris Williams,39,7,M,Software engineer instructor,Education,No,FALSE,Divorced,1,0,0,0,1,0,0,0,1,1
+121,61,16,01/04/23,"Nashville, Tennessee",Nicole Lilienthal,32,4,F,Senior marketing advisor,Sales/Marketing,Yes,FALSE,Married,1,0,0,0,1,0,0,0,1,1
+122,61,16,01/04/23,"Nashville, Tennessee",Christopher Thielk,36,4,M,Business coach,Business/Finance,Yes,FALSE,Married,1,0,0,0,1,0,0,0,1,1
+123,62,16,01/04/23,"Nashville, Tennessee",Gina Micheletti,35,5,F,Hairstylist & salon owner,Other,No,FALSE,Divorced,1,0,0,0,1,0,0,0,1,1
+124,62,16,01/04/23,"Nashville, Tennessee",Clint Webb,40,5,M,Account executive,Business/Finance,No,FALSE,Divorced,1,0,0,0,1,0,0,0,1,1
+125,63,16,01/04/23,"Nashville, Tennessee",Domynique Kloss,25,9,F,Associate sales broker,Sales/Marketing,No,FALSE,Divorced,1,0,0,0,1,0,0,0,1,1
+126,63,16,01/04/23,"Nashville, Tennessee",Mackinley Gilbert,34,9,M,Director of operations,Business/Finance,No,FALSE,Divorced,1,0,0,0,1,0,0,0,1,1
+127,64,16,01/04/23,"Nashville, Tennessee",Kirsten Grimes,32,1,F,Real estate agent,Sales/Marketing,Yes,TRUE,Divorced,1,0,0,0,1,0,0,0,1,1
+128,64,16,01/04/23,"Nashville, Tennessee",Shaquille Dillon,31,1,M,Executive director,Business/Finance,No,TRUE,Divorced,1,0,0,0,1,0,0,0,1,1
